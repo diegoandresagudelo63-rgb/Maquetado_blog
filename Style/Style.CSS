@@ -1,0 +1,152 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-size: 20px;
+    color: rgb(0, 60, 255);
+    text-shadow: 6px 6px 10px black;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: purple;
+    border: 5px solid black;   
+    padding: 15px;
+    height: 70px;
+
+}
+
+nav ul{
+    font-size: 20px;
+    color: rgb(238, 255, 0);
+    text-shadow: 3px 3px 5px rgb(74, 235, 146);
+    text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(164, 165, 179);
+    border: 3px solid black; 
+    padding: 20px;    
+
+}
+
+nav li{
+    display: inline;
+    margin: 20px;
+    padding: 5px;
+    text-decoration: none;
+    border: 2px solid transparent;
+}
+
+.menu a {
+    border: 2px solid black;
+    padding: 3px 12px;
+    text-decoration: none;
+    margin-left: 4px;
+    font-size: 14px;
+}
+
+body {
+    background: #301086;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.contenido1 {
+    width: 60%;
+    background: #c4bc66;
+    padding: 20px;
+    margin: 26px;
+    float: left;
+    margin-left: 40px;
+}
+
+.contenido2 {
+    width: 60%;
+    background: #c4bc66;
+    padding: 20px;
+    margin: 26px;
+    float: left;
+    margin-left: 40px;
+}
+
+.articulo1 {
+    background: #f2eecb;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #b8b497;
+    text-align: center;
+}
+
+.articulo2 {
+    background: #f2eecb;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #b8b497;
+    text-align: center;
+}
+
+article {
+    background: #e6e2b3;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #b8b497;
+    text-align: center;
+    margin: 11px 0;
+}
+
+
+time {
+    font-size: 12px;
+    color: gray;
+    display: block;
+    margin: 5px 0;
+}
+
+article img {
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: 10px auto;
+}
+
+article p {
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+footer p {
+    font-size: 12px;
+    margin: 1px 0;
+}
+
+aside {
+    width: 300px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+aside blockquote {
+    background: #fbf3bd;
+    border: 10px solid #abb897;
+    padding: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+footer {
+    clear: both;
+    background: #4f5458;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border: 1px solid #b8b497;
+    border-top: none;
+}
+
+
+
